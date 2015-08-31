@@ -124,7 +124,7 @@ Bank Security India
 
    * - :doc:`ICICI Bank <icici_bank>`
      - :note_na:`?`
-     - :note_b:`B`/:note_c:`C` [#note_geolocalisee]_
+     - :note_b:`B`/:note_c:`C` 
      - :note_na:`?`
      - :note_f:`F`
    
@@ -308,7 +308,7 @@ Bank Security India
    
 
 notes
----------
+-----
 
  - :note_a:`A` : No Complaints ;
  - :note_b:`B` : Good, but could be better ;
