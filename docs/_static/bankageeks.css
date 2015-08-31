@@ -1,0 +1,15 @@
+.note-a, .note-b {
+    color: green;
+}
+
+.note-c, .note-d {
+    color: orange;
+}
+
+.note-e, .note-f {
+    color: red;
+}
+
+.note-na {
+    color: grey;
+}
