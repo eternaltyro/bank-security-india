@@ -15,8 +15,8 @@ Bank-security-India
 
 Comparisons of security designs that are user-facing across public and private sector banks in India.
 
-.. image:: https://readthedocs.org/projects/bankageeks/badge/?version=latest
-   :target: https://readthedocs.org/projects/bankageeks/?badge=latest
+.. image:: https://readthedocs.org/projects/bank-security-india/badge/?version=latest
+   :target: https://readthedocs.org/projects/bank-security-india/?badge=latest
    :alt: Documentation Status
 
 
