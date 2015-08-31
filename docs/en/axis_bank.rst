@@ -26,6 +26,10 @@ Configuration SSL/TLS
 
  - `Qualys SSL Labs`_: :note_a:`A`
 
+.. note::
+   Uses SSLv3;
+   Uses RC4;
+   Forward secrecy not enabled;
 
 **Chip and PIN**
 
