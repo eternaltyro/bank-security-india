@@ -33,19 +33,20 @@ Configuration SSL/TLS
 
 **Chip and PIN**
 
-All cards have Chip and PIN.
+ - :note_a:`Chip and PIN cards offered`;
 
+Authentication
+--------------
 
-Authentification
-----------------
-
- - :note_e:`Minimum Password Length: 6` ;
+ - :note_c:`Minimum Password Length: 8` ;
  - :note_c:`Maximum Password Length: 28` ;
- - :note_e:`Maximum Password Length Limited to 28 characters` ;
- - :note_e:`l'authentification par clé USB requière l'utilisation du plugin Java`;
- - :note_c:`l'authentification par OTP n'est pas un second facteur mais une méthode d'authentification à part entière` ;
- - :note_f:`l'utilisation de l'OTP requière l'application mobile dédiée`.
+ - :note_c:`Right click allowed`;
+ - :note_e:`Copy Paste disabled`;
+ - :note_c:`Virtual Keyboard provided`;
 
+.. note::
+   While pasting from clipboard into the password field is not allowed in the primary Internet Banking site,
+   the payment-gateway site DOES allow pasting passwords into the input box. 
 
 Mobile Application
 ------------------
@@ -56,25 +57,25 @@ Link: `Android application`_
 
 * Device & app history
 
-  - :note_f:``
+  - :note_c:`device status and history`
 
 * Identity
 
-  - :note_f:`find accounts on device`
+  - :note_c:`find accounts on device`
 
 * Calendar
 
   - :note_e:`read calendar events plus confidential information`
-  - :note_c:`add or modify calendar events and send emails to guests without owners' knowledge`
+  - :note_f:`add or modify calendar events and send emails to guests without owners' knowledge`
 
 * Contacts
 
-  - :note_c:`read your contacts`
+  - :note_e:`read your contacts`
 
 * Location
 
-  - :note_c:`network based location`
-  - :note_c:`GPS based location`
+  - :note_e:`network based location`
+  - :note_e:`GPS based location`
 
 * SMS
 
@@ -105,13 +106,13 @@ Link: `Android application`_
 * Other 
 
   - :note_c:`run at startup`
-  - :note_c:`control flashlight`
+  - :note_d:`control flashlight`
   - :note_c:`prevent phone from sleeping`
-  - :note_c:`view network connections`
+  - :note_b:`view network connections`
   - :note_c:`read Google service configuration`
-  - :note_c:`full network access`
-  - :note_c:`connect and disconnect from WiFi`
-  - :note_c:`control vibration`
+  - :note_b:`full network access`
+  - :note_b:`connect and disconnect from WiFi`
+  - :note_d:`control vibration`
 
 
 .. _Qualys SSL Labs: https://www.ssllabs.com/ssltest/analyze.html?d=www.axisbank.co.in
