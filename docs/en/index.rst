@@ -333,7 +333,7 @@ I look at password strengths for user logins. Minimum length below 8 is a major 
    
    And passwords should be memorable ( like XKCD's correcthorsebatterystaple or Ed. Snowden's MargaretThatcherisa110%SEXY.) And one should never use the same password on more than one account. What the actual fuck?!
 
-The best way to use unique, hard-to-guess, hard-to-bruteforce passwords is to use a Password Manager like KeePassX. Don't take it from me, take it from the security experts[#pwdmgr]_
+The best way to use unique, hard-to-guess, hard-to-bruteforce passwords is to use a Password Manager like KeePassX. Don't take it from me, take it from the security experts [#pwdmgr]_
 
 **Snake Oil**
 
@@ -362,11 +362,11 @@ A good browser recommendation would be any recent version of Firefox, Chrome, In
 
 For the quality of configuration when it comes to TLS/SSL, I used Qualys SSL Labs SSL checks. I click on the netbanking link for the respective banks and then when I see the login screen, I simply copied the domain.tld into the SSL labs check page and got the resultant rating and any warnings / errors. 
 
-Interestingly, during my experiments, I came across atleast one major bank site, that had requested that SSL Labs do not test their site. Seems like a big glass of security by obscurity[#obscurenotsecure]_ . Bruce Schneier also says this:
+Interestingly, during my experiments, I came across atleast one major bank site, that had requested that SSL Labs do not test their site. Seems like a big glass of security by obscurity. [#obscurenotsecure]_ Bruce Schneier also says this:
 
   Smart security engineers open their systems to public scrutiny, because that’s how they improve. The truly awful engineers will not only hide their bad designs behind secrecy, but try to belittle any negative security results. Get ready for Rapiscan to claim that the researchers had old software, and the new software has fixed all these problems. Or that they’re only theoretical. Or that the researchers themselves are the problem. We’ve seen it all before.
 
-For those sites that Qualys won't test, I used a neat SSL test script called testssl.sh[#testssl]_
+For those sites that Qualys won't test, I used a neat SSL test script called testssl.sh [#testssl]_
 
 I'm looking for insecure ciphers (MD5, RC4), vulnerable protocols (SSLv3) and similar poor security parameters in the SSL certificates. 
 
