@@ -12,7 +12,7 @@
 
 .. include:: ../README.rst
 
-Contenu
+Content
 -------
 
 .. toctree::
