@@ -10,7 +10,7 @@
    
    Inspired from Rodolphe Breard
 
-AXIS BANK
+AXIS Bank
 =========
 
 .. note::

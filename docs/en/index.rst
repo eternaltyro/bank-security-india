@@ -170,7 +170,7 @@ Bank Security India
      - :note_b:`B`
      - :note_f:`F`
    
-   * - :doc:`Karur Vysya Bank <kvb_bank>`
+   * - :doc:`Karur Vysya Bank <karurvysya_bank>`
      - :note_f:`F`
      - :note_c:`C`
      - :note_b:`B`
