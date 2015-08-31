@@ -329,7 +329,7 @@ Criteria
 I look at password strengths for user logins. Minimum length below 8 is a major fail and maximum lengths below 20 is again a fail.Having a lax requirement for length of passwords encourages bad password discipline. People should be allowed to think in terms of pass-phrases than pass'words'. For this reason, the minimum and maximum password lengths need be reasonable numbers. 
 
 .. tip::
-   Password Entrophy is a measure of how difficult it is to guess a users' password under certain assumptions. If the entropy is high, then the password is difficult to guess. For passwords to have high entropy, they must not have identifiable information, dictionary words, sequences of alphabets & numbers and known patterns (like qwerty, abc123). So a password or a pass-phrase, rather should be sufficiently long, contain upper and lower case alphabets, numbers and special characters.
+   Password Entrophy is a measure of how difficult it is to guess a user's password under certain assumptions. If the entropy is high, then the password is difficult to guess. For passwords to have high entropy, they MUST NOT have identifiable information, dictionary words, sequences of alphabets & numbers or known patterns (like qwerty, abc123). So a password or a pass-phrase, rather should be sufficiently long, contain upper and lower case alphabets, numbers and special characters.
    
    And passwords should be memorable ( like XKCD's correcthorsebatterystaple or Ed. Snowden's MargaretThatcherisa110%SEXY.) And one should never use the same password on more than one account. What the actual fuck?!
 
@@ -354,7 +354,7 @@ The browser and version recommendations from most banks are downright pathetic. 
 standards compliant browsers. 
 
 .. tip::
-   If your bank recommends Adobe Acrobat Reader, Adobe / Macromedia Flash, or Microsoft Internet Explorer 6/7, your bank people are a class-A ass-holes! You should send a mail to them reminding them that they are ass-holes. If you wanna be polite, you could use the word 'morons'. Do it. NOW!!
+   If your bank recommends Adobe Acrobat Reader, Adobe / Macromedia Flash, or Microsoft Internet Explorer 6/7, your bank people are a class-A ass-holes! You should send them a mail reminding them that they are ass-holes. If you wanna be polite, you could use the word 'morons' instead. Do it. Now!!
 
 A good browser recommendation would be any recent version of Firefox, Chrome, Internet Explorer, Opera, Safari or equivalent. Banks have no business recommending what Operating System you should or should not use. Ideally, they should make sure, their sites work on any Free Software browsers / OSes.
 
