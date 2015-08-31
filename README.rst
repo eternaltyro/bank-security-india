@@ -1,5 +1,5 @@
 .. 
-   Copyright (c) 2015 Rodolphe Breard
+   Copyright (c) 2015 ~eternaltyro
    
    Permission is granted to copy, distribute and/or modify this document
    under the terms of the GNU Free Documentation License, Version 1.3
@@ -8,11 +8,12 @@
    A copy of the license is included in the section entitled "GNU
    Free Documentation License".
 
+   Heavily Inspired by Rodolphe Breard's Bankageeks project.
 
-Bankageeks
-==========
+Bank-security-India
+===================
 
-Le comparateur de banques avec des critères que l'on ne retrouve pas dans les comparateurs habituels et que les geeks sauront apprécier.
+Comparisons of security designs that are user-facing across public and private sector banks in India.
 
 .. image:: https://readthedocs.org/projects/bankageeks/badge/?version=latest
    :target: https://readthedocs.org/projects/bankageeks/?badge=latest
@@ -22,27 +23,29 @@ Le comparateur de banques avec des critères que l'on ne retrouve pas dans les c
 Introduction
 ------------
 
-Tout commence par un geek très déçu de la manière dont sa banque lui donne accès à son compte en ligne. Conscient que la plupart des services bancaires sont, pour le client, totalement similaires et que les comparer est une pure perte de temps, il se décide donc à les classer suivant d'autres paramètres dont peu de gens se préoccupent. Féru de logiciels libres, notre geek publie naturellement ses investigations sous une licence libre afin d'aider ses semblables et leur permettre de prendre eux-même part à ce suivi permanent des établissements bancaires.
+After several frustrating moments while using Internet-banking platforms for even the most basic stuff, I began documenting how different banks handle user-side security. I was not-surprised to find that quite a few banks had severe restrictions on the quality of passwords the users can use. Several other banks even used the on-screen keypad in a laughable attempt to presumably  thwart key-logging attacks.
 
-La présente documentation couvre les banques accessibles à un Français. Si la demande pour un comparatif similaire des banques d'autres pays se fait sentir, il est possible que ceci se fasse sous réserve d'avoir suffisamment de contributeurs de ce pays.
+I began documenting some of the parameters that define end-user security for different banks. I even ran a survey (that received luke warm response) to crowdsource data about several banks. I compiled the data into a JSON file. Then I stumbled upon Rodolphe Breard's "bankageeks" project. That's where I picked up the idea to present the data on "Read the docs". 
+
+This project documents only the banks operating in India. If you wish to do a similar project for banks in your country, you can do so by forking this project. 
 
 
-Contribuer
+Contribute
 ----------
 
-Vous connaissez une banque qui n'est pas répertoriée et souhaitez l'ajouter ? Certaines données ne sont pas à jour. Corriger vous même le problème en créant une `pull request`_ ou bien signalez le problème dans `le bugtracker`_.
+If you find outdated, missing or erroneous information here, feel free to create a `pull request`_ to fix the errors yourself. You can also report the problem in `the bugtracker`_.
 
 .. _pull request: https://help.github.com/articles/creating-a-pull-request/
-.. _le bugtracker: https://github.com/breard-r/bankageeks/issues
+.. _the bugtracker: https://github.com/eternaltyro/bank-security-india/issues
 
 
-À l'attention des banques
+To the attention of banks
 -------------------------
 
-La présente documentation est mise à jour par des bénévoles d'après les données que vous fournissez au public ou à vos clients. Si les informations données ici ne sont pas à jour ou erronées, merci de vous référer à la section « Contribuer » afin de voir comment les rectifier. Si vous estimez que cette documentation nuit à votre image, merci d'améliorer vos services puis de mettre à jour les informations vous concernant.
+The information presented here was compiled from crowdsourced data and from independent research. If you find that any information here is erroneous, please refer to the 'Contribute' section to find out how you can fix the errors yourself. If you feel that this information hurts your image, improve your services and update the information here.
 
 
-GNU Free Documentation License
-------------------------------
+License
+-------
 
-Le présent projet est disponible sous les termes de la licence dite « GNU Free Documentation License » dans sa version 1.3 et disponible intégralement en ligne à l'adresse `<https://gnu.org/licenses/fdl.html>`_. Une copie de cette licence est également inclue dans les sources du projet dans le fichier `LICENSE.txt`.
+This documentation is provided under the terms of GNU Free Documentation License (GNU FDL) version 1.3. You can find the full text for the license at `<https://gnu.org/licenses/fdl.html>`_. A copy of the license is included with the source in the `LICENSE.txt` file.

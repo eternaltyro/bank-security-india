@@ -1,0 +1,7 @@
+.. role:: note_a
+.. role:: note_b
+.. role:: note_c
+.. role:: note_d
+.. role:: note_e
+.. role:: note_f
+.. role:: note_na
