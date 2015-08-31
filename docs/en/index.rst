@@ -372,8 +372,11 @@ I'm looking for insecure ciphers (MD5, RC4), vulnerable protocols (SSLv3) and si
 
 **Mobile Applications**
 
-Many banks have mobile applications that let users bank on the move. I look at the permissions the applications demand. In this document, I sample just Android applications. Most of the time, the rationale behind specific permissions are never explained and the users give less than a shit. But everyone would agree that a banking application need not have access to your camera and flashlight or your contacts and call history. It doesn't take a genius to figure that such permissions are
-troublesome and the applications have the potential to infringe on users privacy or even become surveillance tools later on. A bit of a stretch? Maybe. But improbable? Nope.
+Many banks have mobile applications that let users bank on the move. I look at the permissions the applications demand. In this document, I sample just Android applications. Most of the time, the rationale behind specific permissions are never explained and the users give less than a shit. 
+
+But everyone would agree that a banking application need not have access to your camera and flashlight or your contacts and call history. It doesn't take a genius to figure that such permissions are troublesome and the applications have the potential to infringe on users privacy or even become surveillance tools later on. 
+
+A bit of a stretch? Maybe. Improbable? Nope.
 
 
 .. [#pwdmgr] http://googleonlinesecurity.blogspot.in/2015/07/new-research-comparing-how-security.html
