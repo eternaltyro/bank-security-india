@@ -368,6 +368,28 @@ standards compliant browsers.
 
 A good browser recommendation would be any recent version of Firefox, Chrome, Internet Explorer, Opera, Safari or equivalent. Banks have no business recommending what Operating System you should or should not use. Ideally, they should make sure, their sites work on any Free Software browsers / OSes.
 
+.. list-table::
+   :header-rows: 1
+   :stub-columns: 1
+
+   * - Browser
+     - Most recent stable version
+
+   * - Mozilla Firefox 
+     - 40.0
+
+   * - Google Chrome
+     - 44.0
+
+   * - Microsoft Internet Explorer
+     - 11
+
+   * - Opera
+     - 31.0
+
+   * - GNU IceCat
+     - 31.8
+
 **SSL/TLS Configuration**
 
 For the quality of configuration when it comes to TLS/SSL, I used Qualys SSL Labs SSL checks. I click on the netbanking link for the respective banks and then when I see the login screen, I simply copied the domain.tld into the SSL labs check page and got the resultant rating and any warnings / errors. 
