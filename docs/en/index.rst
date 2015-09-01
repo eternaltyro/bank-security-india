@@ -15,6 +15,9 @@
    TODO: OTP (delivery mode? App / SMS)
    TODO: Mobile app login mode (PIN/ password)
 
+.. note::
+   This document is still work-in-progress. I'm still trying to compile a lot of shit by myself. If you wanna help out, get in touch :)
+
 Bank Security India
 ==========================
 
@@ -30,6 +33,12 @@ Bank Security India
      - SSL/TLS
      - Passwords
      - Mobile Apps.
+   
+   * - :doc:`Allahabad Bank <allahabad_bank>`
+     - :note_na:`?`
+     - :note_na:`?`
+     - :note_na:`?`
+     - :note_na:`?`
    
    * - :doc:`Andhra Bank <andhra_bank>`
      - :note_na:`?`
@@ -271,6 +280,7 @@ Bank Security India
 .. toctree::
    :hidden:
 
+   allahabad_bank
    andhra_bank
    axis_bank
    bank_of_baroda

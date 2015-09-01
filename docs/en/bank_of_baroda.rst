@@ -26,9 +26,9 @@ Configuration SSL/TLS
 
  - `Qualys SSL Labs`_: :note_f:`F`
 
-.. warning::
-   Offers SSLv2;
-   Offers SSLv3;
+.. Caution::
+   This thing is a disaster!
+   Offers SSLv2 AND SSLv3;
    Does not offer TLSv1.2
 
 .. note::
