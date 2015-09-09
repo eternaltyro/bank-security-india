@@ -323,7 +323,8 @@ Bank Security India
    union_bank
    vijaya_bank
    yes_bank
-   ssltests 
+   
+:doc:`ssl tests <ssltests>`
 
 notes
 -----
