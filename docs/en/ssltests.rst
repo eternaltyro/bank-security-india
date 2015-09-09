@@ -38,8 +38,8 @@ Bank Security India
    
    * - :doc:`Allahabad Bank <allahabad_bank>`
      - :note_c:`C`
-     - :note_d:`RC4-SHA;`\
-       :note_d:`RC4-MD5`
+     - :note_d:`| RC4-SHA;
+                | RC4-MD5`
      - :note_na:`Mitigated`
      - :note_na:`Good`
      - :note_d:`No`
