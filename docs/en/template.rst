@@ -10,45 +10,39 @@
    
    Inspired from Rodolphe Breard
 
-Yes Bank
+XXXX Bank
 =========
 
-Link: `Yes Bank Site`_
+.. note::
+   None.
+
+.. warning::
+   None.
 
 .. include:: ../notes.txt
 
 Configuration SSL/TLS
 ---------------------
 
- - `Qualys SSL Labs`_: :note_c:`C`
+ - `Qualys SSL Labs`_: :note_a:`A`
 
-Site uses mixed content (http AND https).  
-
-.. caution::
-   TLS 1.2 / TLS 1.1 not offered;
-   No server cipher order
-
-.. warning::
-   Offers SSLv3;
-   Accepts RC4;
-   Forward secrecy not supported;
+.. note::
+   Uses SSLv3;
+   Uses RC4;
+   Forward secrecy not enabled;
 
 **Chip and PIN**
 
- - :note_c:`Assumption: Chip and PIN cards offered`;
+ - :note_a:`Chip and PIN cards offered`;
 
 Authentication
 --------------
 
- - Minimum Password Length: :note_b:`10` ;
- - Maximum Password Length: :note_f:`14` ;
- - Right click: :note_f:`disabled` ;
- - Copy Paste: :note_f: `disabled` ;
- - Virtual Keyboard :note_c:`provided` ;
- - Allowed special symbols: !~^;:?=@#${}|[]_()*,-.
- - Mandatory: One each of [ upper case| lower case| numbers and special symbols]
- - Curiously, the virtual keyboard provides special symbols not contained in the above guideline ( % ` ' % / \ )
- - The plus symbol is not allowed. Curious. :)
+ - :note_c:`Minimum Password Length: 8` ;
+ - :note_c:`Maximum Password Length: 28` ;
+ - :note_c:`Right click allowed`;
+ - :note_e:`Copy Paste disabled`;
+ - :note_c:`Virtual Keyboard provided`;
 
 .. note::
    While pasting from clipboard into the password field is not allowed in the primary Internet Banking site,
@@ -121,6 +115,6 @@ Link: `Android application`_
   - :note_d:`control vibration`
 
 
-.. _Qualys SSL Labs: https://www.ssllabs.com/ssltest/analyze.html?d=netbanking.yesbank.co.in
+.. _Qualys SSL Labs: https://www.ssllabs.com/ssltest/analyze.html?d=www.xxxxbank.com
 .. _Android application: https://play.google.com/store/apps/details?id=com.xxxxbank.mobile
 .. _Mobile applications: http://www.xxxxbank.com/services/mobile-banking.php
