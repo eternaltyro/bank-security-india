@@ -300,7 +300,7 @@ Bank Security India
      - :note_na:`?`
      - :note_na:`?`
 
-   * - :doc:`State Bank of India <sbi_bank>` [#note_statebanks]_
+   * - :doc:`State Bank of India <sbi_bank>` [#statebanks]_
      - :note_na:`?`
      - :note_c:`C` [#onlinesbi]_
      - :note_na:`?`
@@ -358,6 +358,7 @@ Bank Security India
 
 
 .. [#bobifwd] PFS offered only on www site only with very modern browsers. (0xc013; 0xc014)
+.. [#statebanks] Includes State Bank of *
 
 .. toctree::
    :hidden:
