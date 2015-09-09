@@ -47,27 +47,36 @@ Bank Security India
    
    * - :doc:`Andhra Bank <andhra_bank>`
      - :note_c:`C`
-     - :note_na:`RC4-SHA; RC4-MD5`
-     - :note_na:`BREACH; POODLE`
+     - | :note_na:`RC4-SHA;`
+       | :note_d:`RC4-MD5`
+     - | :note_d:`BREACH;`
+       | :note_f:`POODLE`
      - :note_na:`SSLv3`
      - :note_na:`No`
-     - :note_na:`TLSv1.1 / TLSv1.2 not offered; www.onlineandhrabank.net.in; Weak signature`
+     - | :note_f:`TLSv1.1 / TLSv1.2 not offered;`
+       | :note_na:`www.onlineandhrabank.net.in; Weak signature`
 
    * - :doc:`Axis Bank <axis_bank>`
      - :note_c:`C`
      - :note_d:`RC4-SHA`
-     - :note_d:`POODLE; BEAST?`
+     - | :note_d:`BEAST?;`
+       | :note_f:`POODLE`
      - :note_c:`SSLv3`
      - :note_d:`No`
-     - :note_na:`axisbank.co.in; TLS_FALLBACK_SCSV supported against downgrade attacks`
+     - | :note_na:`axisbank.co.in;`
+       | :note_a:`TLS_FALLBACK_SCSV supported against downgrade attacks`
 
    * - :doc:`Bank of Baroda <bank_of_baroda>`
      - :note_f:`F`/:note_c:`C`
-     - :note_d:`RC4-SHA; RC4-MD5?`
-     - :note_na:`BREACH? (www) ; POODLE`
-     - :note_f:`SSLv2 on www; SSLv3;`
+     - | :note_d:`RC4-SHA;`
+       | :note_d:`RC4-MD5?`
+     - | :note_d:`BREACH?(www);`
+       | :note_f:`POODLE`
+     - | :note_f:`SSLv2 on www;`
+       | :note_f:`SSLv3;`
      - :note_d:`No` [#bobifwd]_
-     - :note_f:`TLSv1.2 / TLSv1.1 not supported; www.bobibanking.com / intl.bobibanking.com`
+     - | :note_f:`TLSv1.2 / TLSv1.1 not supported;`
+       | :note_na:`www.bobibanking.com / intl.bobibanking.com`
    
    * - :doc:`Bank of India <bank_of_india>`
      - :note_na:`?`
