@@ -73,10 +73,14 @@ Bank Security India
      - :note_f:`F`
      - :note_na:`?`
      - :note_na:`?`
+     - :note_na:`?`
+     - :note_na:`?`
    
    * - :doc:`Bank of Maharashtra <maharashtra_bank>`
      - :note_na:`?`
      - :note_f:`F`
+     - :note_na:`?`
+     - :note_na:`?`
      - :note_na:`?`
      - :note_na:`?`
    
@@ -85,10 +89,14 @@ Bank Security India
      - :note_f:`F`
      - :note_na:`?`
      - :note_na:`?`
+     - :note_na:`?`
+     - :note_na:`?`
    
    * - :doc:`Canara Bank <canara_bank>`
      - :note_na:`?`
      - :note_a:`A-`
+     - :note_na:`?`
+     - :note_na:`?`
      - :note_na:`?`
      - :note_na:`?`
    
@@ -97,10 +105,14 @@ Bank Security India
      - :note_f:`F`
      - :note_na:`?`
      - :note_na:`?`
+     - :note_na:`?`
+     - :note_na:`?`
 
    * - :doc:`Central Bank of India <central_bank>`
      - :note_na:`?`
      - :note_c:`C`
+     - :note_na:`?`
+     - :note_na:`?`
      - :note_na:`?`
      - :note_na:`?`
    
@@ -109,10 +121,14 @@ Bank Security India
      - :note_b:`B`
      - :note_na:`?`
      - :note_na:`?`
+     - :note_na:`?`
+     - :note_na:`?`
    
    * - :doc:`Corporation Bank <corporation_bank>`
      - :note_na:`?`
      - :note_f:`F`
+     - :note_na:`?`
+     - :note_na:`?`
      - :note_na:`?`
      - :note_na:`?`
    
@@ -121,10 +137,14 @@ Bank Security India
      - :note_f:`F`
      - :note_na:`?`
      - :note_na:`?`
+     - :note_na:`?`
+     - :note_na:`?`
    
    * - :doc:`Development Credit Bank <devcred_bank>`
      - :note_na:`?`
      - :note_a:`A-`
+     - :note_na:`?`
+     - :note_na:`?`
      - :note_na:`?`
      - :note_na:`?`
    
@@ -133,10 +153,14 @@ Bank Security India
      - :note_f:`F`
      - :note_na:`?`
      - :note_na:`?`
+     - :note_na:`?`
+     - :note_na:`?`
    
    * - :doc:`Federal Bank <federal_bank>`
      - :note_na:`?`
      - :note_b:`B`
+     - :note_na:`?`
+     - :note_na:`?`
      - :note_na:`?`
      - :note_na:`?`
 
@@ -145,10 +169,14 @@ Bank Security India
      - :note_f:`F`
      - :note_na:`?`
      - :note_na:`?`
+     - :note_na:`?`
+     - :note_na:`?`
 
    * - :doc:`ICICI Bank <icici_bank>`
      - :note_na:`?`
      - :note_c:`C`
+     - :note_na:`?`
+     - :note_na:`?`
      - :note_na:`?`
      - :note_na:`?`
    
@@ -157,10 +185,14 @@ Bank Security India
      - :note_f:`F`
      - :note_na:`?`
      - :note_na:`?`
+     - :note_na:`?`
+     - :note_na:`?`
    
    * - :doc:`Indian Bank <indian_bank>`
      - :note_na:`?`
      - :note_c:`C`
+     - :note_na:`?`
+     - :note_na:`?`
      - :note_na:`?`
      - :note_na:`?`
    
@@ -169,10 +201,14 @@ Bank Security India
      - :note_b:`B`
      - :note_na:`?`
      - :note_na:`?`
+     - :note_na:`?`
+     - :note_na:`?`
    
    * - :doc:`Indusind Bank <indusind_bank>`
      - :note_na:`?`
      - :note_f:`F`
+     - :note_na:`?`
+     - :note_na:`?`
      - :note_na:`?`
      - :note_na:`?`
 
@@ -181,10 +217,14 @@ Bank Security India
      - :note_f:`F`
      - :note_na:`?`
      - :note_na:`?`
+     - :note_na:`?`
+     - :note_na:`?`
    
    * - :doc:`Jammu and Kashmir Bank <jammukashmir_bank>`
      - :note_na:`?`
      - :note_c:`C`
+     - :note_na:`?`
+     - :note_na:`?`
      - :note_na:`?`
      - :note_na:`?`
 
@@ -193,10 +233,14 @@ Bank Security India
      - :note_b:`B`
      - :note_na:`?`
      - :note_na:`?`
+     - :note_na:`?`
+     - :note_na:`?`
    
    * - :doc:`Karur Vysya Bank <karurvysya_bank>`
      - :note_na:`?`
      - :note_f:`F`
+     - :note_na:`?`
+     - :note_na:`?`
      - :note_na:`?`
      - :note_na:`?`
 
@@ -205,10 +249,14 @@ Bank Security India
      - :note_f:`F`
      - :note_na:`?`
      - :note_na:`?`
+     - :note_na:`?`
+     - :note_na:`?`
    
    * - :doc:`Lakshmi Vilas Bank <lakshmivilas_bank>`
      - :note_na:`?`
      - :note_b:`B`
+     - :note_na:`?`
+     - :note_na:`?`
      - :note_na:`?`
      - :note_na:`?`
 
@@ -217,10 +265,14 @@ Bank Security India
      - :note_f:`F by script`
      - :note_na:`?`
      - :note_na:`?`
+     - :note_na:`?`
+     - :note_na:`?`
 
    * - :doc:`Oriental Bank of Commerce <obc_bank>`
      - :note_na:`?`
      - :note_f:`F`
+     - :note_na:`?`
+     - :note_na:`?`
      - :note_na:`?`
      - :note_na:`?`
 
@@ -229,10 +281,14 @@ Bank Security India
      - :note_f:`F`
      - :note_na:`?`
      - :note_na:`?`
+     - :note_na:`?`
+     - :note_na:`?`
 
    * - :doc:`Ratnakar Bank <ratnakar_bank>`
      - :note_na:`?`
      - :note_f:`F`
+     - :note_na:`?`
+     - :note_na:`?`
      - :note_na:`?`
      - :note_na:`?`
 
@@ -241,10 +297,14 @@ Bank Security India
      - :note_b:`B`
      - :note_na:`?`
      - :note_na:`?`
+     - :note_na:`?`
+     - :note_na:`?`
 
    * - :doc:`State Bank of India <sbi_bank>` [#note_statebanks]_
      - :note_na:`?`
      - :note_c:`C` [#onlinesbi]_
+     - :note_na:`?`
+     - :note_na:`?`
      - :note_na:`?`
      - :note_na:`?`
 
@@ -253,10 +313,14 @@ Bank Security India
      - :note_f:`F`
      - :note_na:`?`
      - :note_na:`?`
+     - :note_na:`?`
+     - :note_na:`?`
 
    * - :doc:`TamilNad Mercantile Bank <tmb_bank>`
      - :note_na:`?`
      - :note_f:`F`
+     - :note_na:`?`
+     - :note_na:`?`
      - :note_na:`?`
      - :note_na:`?`
 
@@ -265,10 +329,14 @@ Bank Security India
      - :note_f:`F`
      - :note_na:`?`
      - :note_na:`?`
+     - :note_na:`?`
+     - :note_na:`?`
 
    * - :doc:`Union Bank of India <union_bank>`
      - :note_na:`?`
      - :note_f:`F`
+     - :note_na:`?`
+     - :note_na:`?`
      - :note_na:`?`
      - :note_na:`?`
 
@@ -277,10 +345,14 @@ Bank Security India
      - :note_c:`C`
      - :note_na:`?`
      - :note_na:`?`
+     - :note_na:`?`
+     - :note_na:`?`
 
    * - :doc:`Yes bank <yes_bank>`
      - :note_na:`?`
      - :note_c:`C`
+     - :note_na:`?`
+     - :note_na:`?`
      - :note_na:`?`
      - :note_na:`?`
 
@@ -344,62 +416,6 @@ notes
 Criteria
 ---------
 
-**Authentication**
-
-I look at password strengths for user logins. Minimum length below 8 is a major fail and maximum lengths below 20 is again a fail.Having a lax requirement for length of passwords encourages bad password discipline. People should be allowed to think in terms of pass-phrases than pass'words'. For this reason, the minimum and maximum password lengths need be reasonable numbers. 
-
-.. tip::
-   Password Entrophy is a measure of how difficult it is to guess a user's password under certain assumptions. If the entropy is high, then the password is difficult to guess. For passwords to have high entropy, they MUST NOT have identifiable information, dictionary words, sequences of alphabets & numbers or known patterns (like qwerty, abc123). So a password or a pass-phrase, rather should be sufficiently long, contain upper and lower case alphabets, numbers and special characters.
-   
-   And passwords should be memorable ( like XKCD's correcthorsebatterystaple or Ed. Snowden's MargaretThatcherisa110%SEXY.) And one should never use the same password on more than one account. What the actual fuck?!
-
-The best way to use unique, hard-to-guess, hard-to-bruteforce passwords is to use a Password Manager like KeePassX. Don't take it from me, take it from the security experts [#pwdmgr]_
-
-**Snake Oil**
-
-Okay, not quite. But still.. There are some weird practices that maybe bring a false sense of security with users. Here are a few:
-
-* Blocking right clicks on the page
-* Blocking pasting from clipboards
-* Virtual Keyboards
-
-Blocking right clicks is just laughable. What do the security engineers think that does? Just an annoyance. Just silly.
-Blocking paste from clipboard would be funny as well if not for a serious problem. This practice discourages users from using a password manager, which if you read the previous section, is very important a tool.
-
-Virtual Keyboards do provide a little bit of resistance against keyloggers. Only a little though. If your operating system is owned, you're toast anyway. However, if you use a shitty, outdated browser, just upgrade it to a more decent version. Speaking of which..
-
-**Browser Recommendations**
-
-The browser and version recommendations from most banks are downright pathetic. I'd personally recommend that those banks that recommend IE6/7 be penalized heavily by the Reserve Bank of India. It's just outrageous. One, the fact that a bank recommends IE6 means they are willing to not heed to the tons of security vulnerabilities that the user might be exposed to. Two, the banks subtly coerce the customers into using a proprietary operating system. They should instead by recommending
-standards compliant browsers. 
-
-.. tip::
-   If your bank recommends Adobe Acrobat Reader, Adobe / Macromedia Flash, or Microsoft Internet Explorer 6/7, your bank people are a class-A ass-holes! You should send them a mail reminding them that they are ass-holes. If you wanna be polite, you could use the word 'morons' instead. Do it. Now!!
-
-A good browser recommendation would be any recent version of Firefox, Chrome, Internet Explorer, Opera, Safari or equivalent. Banks have no business recommending what Operating System you should or should not use. Ideally, they should make sure, their sites work on any Free Software browsers / OSes.
-
-.. list-table::
-   :header-rows: 1
-   :stub-columns: 1
-
-   * - Browser
-     - Most recent stable version
-
-   * - Mozilla Firefox 
-     - 40.0
-
-   * - Google Chrome
-     - 44.0
-
-   * - Microsoft Internet Explorer
-     - 11
-
-   * - Opera
-     - 31.0
-
-   * - GNU IceCat
-     - 31.8
-
 **SSL/TLS Configuration**
 
 For the quality of configuration when it comes to TLS/SSL, I used Qualys SSL Labs SSL checks. I click on the netbanking link for the respective banks and then when I see the login screen, I simply copied the domain.tld into the SSL labs check page and got the resultant rating and any warnings / errors. 
@@ -412,15 +428,10 @@ For those sites that Qualys won't test, I used a neat SSL test script called tes
 
 I'm looking for insecure ciphers (MD5, RC4), vulnerable protocols (SSLv3) and similar poor security parameters in the SSL certificates. 
 
-**Mobile Applications**
+Protocols:
+Offered Ciphers:
+Attacks:
+Forward Secrecy:
+Weak signatures: (SHA1)
 
-Many banks have mobile applications that let users bank on the move. I look at the permissions the applications demand. In this document, I sample just Android applications. Most of the time, the rationale behind specific permissions are never explained and the users give less than a shit. 
-
-But everyone would agree that a banking application need not have access to your camera and flashlight or your contacts and call history. It doesn't take a genius to figure that such permissions are troublesome and the applications have the potential to infringe on users privacy or even become surveillance tools later on. 
-
-A bit of a stretch? Maybe. Improbable? Nope.
-
-
-.. [#pwdmgr] http://googleonlinesecurity.blogspot.in/2015/07/new-research-comparing-how-security.html
-.. [#obscurenotsecure] https://www.schneier.com/crypto-gram/archives/2002/0515.html#1
 .. [#testssl] https://github.com/drwetter/testssl.sh 
