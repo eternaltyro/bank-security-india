@@ -280,9 +280,12 @@ Bank Security India
 .. [#allahabad] https://www.ssllabs.com/ssltest/analyze.html?d=allbankonline.in
 .. [#weirdmaha] Ports open plus site inaccessible
 
+:doc:`ssl tests <ssltests>`
+
 .. toctree::
    :hidden:
 
+   ssltests
    allahabad_bank
    andhra_bank
    axis_bank
@@ -324,7 +327,6 @@ Bank Security India
    vijaya_bank
    yes_bank
    
-:doc:`ssl tests <ssltests>`
 
 notes
 -----

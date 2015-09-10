@@ -26,6 +26,30 @@ Configuration SSL/TLS
 
  - `Qualys SSL Labs`_: :note_f:`F`
 
+.. list-table::
+   :stub-columns: 1
+
+   * - GRADE
+     - :note_f:`F`
+
+   * - ATTACKS
+     - POODLE; BEAST; FREAK;
+
+   * - RC4 / MD5
+     - RC4-SHA; RC4-MD5
+
+   * - SSLv2
+     - :note_f:`Offered`
+
+   * - SSLv3
+     - :note_f:`Offered`
+
+   * - TLSv1.2
+     - :note_f:`Nope`
+
+   * - PFS
+     - :note_f:`Nope`
+
 .. Caution::
    This thing is a disaster!
    Offers SSLv2 AND SSLv3;
