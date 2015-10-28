@@ -351,6 +351,20 @@ I look at password strengths for user logins. Minimum length below 8 is a major 
 
 The best way to use unique, hard-to-guess, hard-to-bruteforce passwords is to use a Password Manager like KeePassX. Don't take it from me, take it from the security experts [#pwdmgr]_
 
+**Multi-Factor Authentication**
+
+Authentication is proving your identity to the bank website so that you are allowed access to your accont. You have to be able to prove you are indeed who you claim you are. One way to do that is to use a username and a password that you and ONLY YOU know. Other ways of authentication exist, like using something that you have (like a registered phone), something that you are (fingerprint, etc). You could significantly increase the security during authentication by using multiple modes of authentication one after the other. You might, for instance be required to know a password AND input a 6 digit code that was sent to your registered phone. This is multi-factor authentication. It increases security because theer's a reduced chance that you accidentally revealed your password AND let your phone be stolen by the same person at the same time. 
+
+Some common ways of authentication are:
+
+* Username / Password
+* App on Smartphone based authentication
+* SMS based one-time-password (OTP)
+* Time / HMAC based OTP (HOTP or TOTP)
+* Universal 2-Factor authentication hardware token (recent technology, highest security and sadly, zero adoption in Indian banks)
+
+Fortunately, most banks mandate the use of one-time-passwords, albeit mostly through SMS (frustratingly). I wish and hope that banks give users the option of using generated HMAC/Time OTPs and U2F.  
+
 **Snake Oil**
 
 Okay, not quite. But still.. There are some weird practices that maybe bring a false sense of security with users. Here are a few:
