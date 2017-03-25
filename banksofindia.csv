@@ -1,0 +1,28 @@
+s_no,bank_code,bank_name,bank_type,https_score,login_password_pcre,txn_password_pcre,right_click,SMS_OTP,TIME_OTP,HW_OTP,HW_2FA,U2F,OS_rq,browser_rq,other_security,notes
+1,SBI,State Bank of India,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+2,SBBJ,State Bank of India,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+3,SBH,State Bank of Hyderabad,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+4,SBM,State Bank of Mysore,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+5,SBP,State Bank of Patiala,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+6,SBT,State Bank of Travancore,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+7,ALBDB,Allahabad Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+8,ANDRB,Andhra Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+9,BOI,Bank of India,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+10,BOB,Bank of Baroda,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+11,BOM,Bank of Maharashtra,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+12,CANRB,Canara Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+13,CBI,Central Bank of India,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+14,CORPB,Corporation Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+15,DENAB,Dena Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+16,INDB,Indian Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+17,IOB,Indian Overseas Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+18,OBC,Oriental Bank of Commerce,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+19,PNSB,Punjab & Sindh Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+20,PNB,Punjab National Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+21,SYNB,Syndicate Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+22,UCOB,UCO Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+23,UBI,Union Bank of India,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+24,UNITB,United Bank of India,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+25,VIJB,Vijaya Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+26,BMB,Bharatiya Mahila Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+27,IDBIB,IDBI Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
