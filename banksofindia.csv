@@ -39,7 +39,7 @@ s_no,bank_code,bank_name,bank_type,https_score,login_password_pcre,txn_password_
 38,KARTB,Karnataka Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
 39,INDUSB,IndusInd Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
 40,JNKB,Jammu and Kashmir Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
-41,KVB,Karur Vysya Bank,Private Sector,_,\b((?<=[[:alnum:]])[[:alnum:]](?=[[:alnum:]])){7,10}\b,\b\d{4}\b,_,_,_,_,_,_,_,_,_,_
+41,KVB,Karur Vysya Bank,Private Sector,_,"\b((?<=[[:alnum:]])[[:alnum:]](?=[[:alnum:]])){7,10}\b",\b\d{4}\b,_,_,_,_,_,_,_,_,_,_
 42,KMB,Kotak Mahindra Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
 43,LVB,Lakshmi Vilas Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
 44,NAINB,Nainital Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
