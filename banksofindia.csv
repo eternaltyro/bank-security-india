@@ -25,7 +25,7 @@ s_no,bank_code,bank_name,bank_type,https_score,login_password_pcre,txn_password_
 24,UNITB,United Bank of India,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
 25,VIJB,Vijaya Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
 26,BMB,Bharatiya Mahila Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
-27,IDBIB,IDBI Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+27,IDBIB,IDBI Bank,Public Sector,_,/[0-9a-zA-Z@#&]+/,_,_,_,_,_,_,_,_,_,_,_
 28,ICIB,ICICI Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
 29,BANDB,Bandhan Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
 30,CSB,Catholic Syrian Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
@@ -39,7 +39,7 @@ s_no,bank_code,bank_name,bank_type,https_score,login_password_pcre,txn_password_
 38,KARTB,Karnataka Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
 39,INDUSB,IndusInd Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
 40,JNKB,Jammu and Kashmir Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
-41,KVB,Karur Vysya Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+41,KVB,Karur Vysya Bank,Private Sector,_,\b((?<=[[:alnum:]])[[:alnum:]](?=[[:alnum:]])){7,10}\b,\b\d{4}\b,_,_,_,_,_,_,_,_,_,_
 42,KMB,Kotak Mahindra Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
 43,LVB,Lakshmi Vilas Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
 44,NAINB,Nainital Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
