@@ -26,3 +26,24 @@ s_no,bank_code,bank_name,bank_type,https_score,login_password_pcre,txn_password_
 25,VIJB,Vijaya Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
 26,BMB,Bharatiya Mahila Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
 27,IDBIB,IDBI Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+28,ICIB,ICICI Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+29,BANDB,Bandhan Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+30,CSB,Catholic Syrian Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+31,CUB,City Union Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+32,DLXMB,Dhanlaxmi Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+33,DCBB,DCB Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+34,YESB,Yes Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+35,FEDRB,Federal Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+36,HDFCB,HDFC Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+37,TMBL,Tamilnad Mercantile Bank Limited,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+38,KARTB,Karnataka Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+39,INDUSB,IndusInd Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+40,JNKB,Jammu and Kashmir Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+41,KVB,Karur Vysya Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+42,KMB,Kotak Mahindra Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+43,LVB,Lakshmi Vilas Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+44,NAINB,Nainital Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+45,RBLB,RBL Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+46,SIB,South Indian Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+47,AXISB,Axis Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
+48,IDFCB,IDFC Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_
