@@ -5,45 +5,45 @@ s_no,bank_code,bank_name,bank_type,https_score,login_url,login_password_pcre,txn
 4,SBM,State Bank of Mysore,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
 5,SBP,State Bank of Patiala,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
 6,SBT,State Bank of Travancore,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
-7,ALBDB,Allahabad Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
+7,ALBDB,Allahabad Bank,Public Sector,C,www.allbankonline.in,_,_,_,_,_,_,_,_,_,_,_,_
 8,ANDRB,Andhra Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
 9,BOI,Bank of India,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
-10,BOB,Bank of Baroda,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
+10,BOB,Bank of Baroda,Public Sector,B,www.bobibanking.com,_,_,_,_,_,_,_,_,_,_,_,_
 11,BOM,Bank of Maharashtra,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
-12,CANRB,Canara Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
+12,CANRB,Canara Bank,Public Sector,F,netbanking.canarabank.in,_,_,_,_,_,_,_,_,_,_,_,_
 13,CBI,Central Bank of India,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
-14,CORPB,Corporation Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
+14,CORPB,Corporation Bank,Public Sector,F,www.corpretail.com,_,_,_,_,_,_,_,_,_,_,_,_
 15,DENAB,Dena Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
-16,INDB,Indian Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
+16,INDB,Indian Bank,Public Sector,C,www.indianbank.net.in,_,_,_,_,_,_,_,_,_,_,_,_
 17,IOB,Indian Overseas Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
 18,OBC,Oriental Bank of Commerce,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
 19,PNSB,Punjab & Sindh Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
-20,PNB,Punjab National Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
+20,PNB,Punjab National Bank,Public Sector,F,netbanking.netpnb.com,_,_,_,_,_,_,_,_,_,_,_,_
 21,SYNB,Syndicate Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
 22,UCOB,UCO Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
 23,UBI,Union Bank of India,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
 24,UNITB,United Bank of India,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
-25,VIJB,Vijaya Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
+25,VIJB,Vijaya Bank,Public Sector,C,www.vijayabankonline.in,_,_,_,_,_,_,_,_,_,_,_,_
 26,BMB,Bharatiya Mahila Bank,Public Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
-27,IDBIB,IDBI Bank,Public Sector,_,_,/[0-9a-zA-Z@#&]+/,_,_,_,_,_,_,_,_,_,_,_
-28,ICIB,ICICI Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
+27,IDBIB,IDBI Bank,Public Sector,B,inet.idbibank.co.in,/[0-9a-zA-Z@#&]+/,_,_,_,_,_,_,_,_,_,_,_
+28,ICIB,ICICI Bank,Private Sector,A-,infinity.icicibank.com,_,_,_,_,_,_,_,_,_,_,_,_
 29,BANDB,Bandhan Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
 30,CSB,Catholic Syrian Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
 31,CUB,City Union Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
 32,DLXMB,Dhanlaxmi Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
 33,DCBB,DCB Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
-34,YESB,Yes Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
+34,YESB,Yes Bank,Private Sector,C,netbanking.yesbank.co.in,_,_,_,_,_,_,_,_,_,_,_,_
 35,FEDRB,Federal Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
-36,HDFCB,HDFC Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
-37,TMBL,Tamilnad Mercantile Bank Limited,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
-38,KARTB,Karnataka Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
+36,HDFCB,HDFC Bank,Private Sector,C,netbanking.hdfcbank.com,_,_,_,_,_,_,_,_,_,_,_,_
+37,TMBL,Tamilnad Mercantile Bank Limited,Private Sector,A,www.tmbnet.in,_,_,_,_,_,_,_,_,_,_,_,_
+38,KARNB,Karnataka Bank,Private Sector,C,moneyclick.karnatakabank.co.in,_,_,_,_,_,_,_,_,_,_,_,_
 39,INDUSB,IndusInd Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
 40,JNKB,Jammu and Kashmir Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
-41,KVB,Karur Vysya Bank,Private Sector,_,_,"\b((?<=[[:alnum:]])[[:alnum:]](?=[[:alnum:]])){7,10}\b",\b\d{4}\b,_,_,_,_,_,_,_,_,_,_
-42,KMB,Kotak Mahindra Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
+41,KVB,Karur Vysya Bank,Private Sector,F,www.kvbin.com,"\b((?<=[[:alnum:]])[[:alnum:]](?=[[:alnum:]])){7,10}\b",\b\d{4}\b,_,_,_,_,_,_,_,_,_,_
+42,KMB,Kotak Mahindra Bank,Private Sector,C,www.kotak.com,_,_,_,_,_,_,_,_,_,_,_,_
 43,LVB,Lakshmi Vilas Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
 44,NAINB,Nainital Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
 45,RBLB,RBL Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
 46,SIB,South Indian Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
-47,AXISB,Axis Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
+47,AXISB,Axis Bank,Private Sector,A,retail.axisbank.co.in_,_,_,_,_,_,_,_,_,_,_,_,_
 48,IDFCB,IDFC Bank,Private Sector,_,_,_,_,_,_,_,_,_,_,_,_,_,_
